@@ -1,0 +1,42 @@
+# Binary files (compiled Go programs)
+# Go бағдарламасы жиналғанда шығатын файлдар
+main
+main.exe
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Dependency directories
+# Пакеттер папкасы (керек болса ғана)
+vendor/
+
+# Environment variables
+# Құпия мәліметтер (DATABASE_URL, JWT_SECRET т.б.)
+# Бұл файлды ЕШҚАШАН GitHub-қа жібермеңіз!
+.env
+
+# OS generated files
+# Операциялық жүйе файлдары
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# IDE and Editor files
+# Редактор файлдары
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+# Лог файлдары
+*.log
+
+# Temporary files
+# Уақытша файлдар
+tmp/
+bin/
