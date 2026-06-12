@@ -6,7 +6,7 @@ Base URL: `http://localhost:8080`
 
 ---
 
-## 1. Health
+## 1. Healthaa
 
 | | |
 |--|--|
